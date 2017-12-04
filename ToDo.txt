@@ -1,0 +1,29 @@
+Coding:
+-Enemy AI
+-Enemy Spawners
+
+Art:
+-3 Static Treasure Models
+-1 Brick wall Model
+-Wall top cover
+-Goblin
+-Knight
+-Wizard
+-Archer
+
+Sound:
+-Collect
+-Discard
+-Take Damage
+-Steps
+-BG Music
+
+
+---STRETCH GOALS---
+Coding:
+-Prodecural Level
+-Prodedural Treasures
+-Shop
+
+Art:
+-3 Static Artifact Models
