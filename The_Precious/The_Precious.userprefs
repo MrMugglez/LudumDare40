@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelLoader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Treasure.cs" Line="22" Column="43" />
+      <File FileName="Assets\Scripts\Player.cs" Line="45" Column="51" />
+      <File FileName="Assets\Scripts\TreasureTrove.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\UIHandler.cs" Line="18" Column="21" />
+      <File FileName="Assets\Scripts\Traps\Boulder.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\Traps\BoulderTrigger.cs" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\Traps\BoulderTrap.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scripts\Traps\Pit.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Traps\PitWall.cs" Line="8" Column="3" />
+      <File FileName="Assets\Scripts\Traps\SwingingGuillotineTrap.cs" Line="67" Column="4" />
+      <File FileName="Assets\Scripts\Traps\Guillotine.cs" Line="12" Column="68" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="53" Column="88" />
+      <File FileName="Assets\Scripts\Score.cs" Line="43" Column="173" />
+      <File FileName="Assets\Scripts\Credits.cs" Line="6" Column="39" />
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="12" Column="28" />
+      <File FileName="Assets\Scripts\Exit.cs" Line="20" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
